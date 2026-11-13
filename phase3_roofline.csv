@@ -1,0 +1,6 @@
+metric,value
+bandwidth_gbs,12.301432770940018
+bandwidth_median_s,0.010405292
+compute_gflops,0.5385132824257647
+compute_median_s,0.8913429169988376
+ridge_flops_per_byte,0.04377646835561367
